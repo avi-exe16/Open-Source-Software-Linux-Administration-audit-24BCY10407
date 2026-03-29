@@ -9,8 +9,8 @@
 # ============================================================
 
 # --- Student & Project Variables ---
-STUDENT_NAME= "Abhishek Shandilya"            # TODO: Fill in your name
-REG_NUMBER= "24BCY10407"        # TODO: Fill in your registration number
+STUDENT_NAME="Abhishek Shandilya"            # TODO: Fill in your name
+REG_NUMBER="24BCY10407"        # TODO: Fill in your registration number
 SOFTWARE_CHOICE="VLC Media Player"     # Chosen open-source software
 
 # --- Gather System Information using command substitution ---
